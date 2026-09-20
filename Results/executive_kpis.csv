@@ -1,0 +1,2 @@
+analysis_days,drugs_analyzed,locations_analyzed,total_demand,total_fulfilled,fill_rate_pct,stockout_records,stockout_rate_pct,closing_inventory_units,closing_inventory_value,purchase_orders,ordered_units,received_units,supplier_fill_rate_pct,late_purchase_orders,supplier_late_rate_pct,expiry_units,expiry_value
+365,25,5,5185820,4866425,93.84,3511,7.7,24304775,4430752411.1,1200,789100,785013,99.48,504,42.0,432799,76346333.21
