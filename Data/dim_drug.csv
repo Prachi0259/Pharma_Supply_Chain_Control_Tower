@@ -1,0 +1,26 @@
+drug_id,drug_name,category,unit_cost,avg_daily_demand,criticality,safety_stock
+1,Drug 01,Analgesic,251.73,129,Critical,959
+2,Drug 02,Antibiotic,228.61,98,Critical,428
+3,Drug 03,Cardiac,312.64,141,Critical,1007
+4,Drug 04,Diabetes,56.69,145,Critical,841
+5,Drug 05,Respiratory,129.98,61,Critical,401
+6,Drug 06,Gastro,266.47,169,Critical,975
+7,Drug 07,CNS,86.63,48,Critical,204
+8,Drug 08,Vitamin,267.94,115,Critical,750
+9,Drug 09,Analgesic,246.94,136,High,1072
+10,Drug 10,Antibiotic,287.72,86,High,611
+11,Drug 11,Cardiac,76.78,87,High,363
+12,Drug 12,Diabetes,64.6,102,High,686
+13,Drug 13,Respiratory,242.92,88,High,466
+14,Drug 14,Gastro,129.88,175,High,1028
+15,Drug 15,CNS,75.22,102,High,602
+16,Drug 16,Vitamin,86.53,53,High,354
+17,Drug 17,Analgesic,150.02,58,High,394
+18,Drug 18,Antibiotic,112.33,155,Standard,1136
+19,Drug 19,Cardiac,261.04,157,Standard,809
+20,Drug 20,Diabetes,224.11,91,Standard,414
+21,Drug 21,Respiratory,78.37,151,Standard,1079
+22,Drug 22,Gastro,218.78,36,Standard,245
+23,Drug 23,CNS,253.78,115,Standard,721
+24,Drug 24,Vitamin,60.22,101,Standard,450
+25,Drug 25,Analgesic,219.86,129,Standard,807

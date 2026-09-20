@@ -1,0 +1,5 @@
+supplier_id,supplier_name,avg_lead_time_days,reliability
+1,Supplier A,7,0.92
+2,Supplier B,12,0.86
+3,Supplier C,18,0.78
+4,Supplier D,25,0.7
